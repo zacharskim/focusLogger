@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Droid+Sans+Mono");
+
+.metaInfo {
+  font-size: 1em;
+  font-family: "Droid Sans Mono", monospace;
+  font-weight: lighter;
+  color: #d3ad1d;
+}
+
+ul {
+  list-style-type: none;
+}

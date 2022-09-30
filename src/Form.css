@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Droid+Sans+Mono");
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  column-gap: 2%;
+}
+
+.form-container2 {
+  display: flex;
+  justify-content: center;
+  column-gap: 1%;
+  color: white;
+  font-size: 200%;
+}
+
+.button {
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  padding: 14px 40px;
+  background-color: #f0ead6;
+  position: center;
+  font-family: "Droid Sans Mono", monospace;
+}
+
+.button:hover {
+  background-color: #4f7942;
+  /color: white;
+}
+
+.buttonModal {
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  padding: 14px 40px;
+  background-color: #f0ead6;
+  position: center;
+  margin: 20px;
+  font-family: "Droid Sans Mono", monospace;
+}
+
+.buttonModal:hover {
+  background-color: #d3ad1d;
+  /color: white;
+}
+
+.buttonModal2 {
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  padding: 14px 40px;
+  background-color: #f0ead6;
+  position: center;
+  margin: 20px;
+  font-family: "Droid Sans Mono", monospace;
+}
+
+.buttonModal2:hover {
+  background-color: #aa4a44;
+  /color: white;
+}
