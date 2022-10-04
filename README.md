@@ -14,16 +14,16 @@ https://user-images.githubusercontent.com/45699852/193712699-d5b53c55-e00d-4d8a-
 
 
 ## Run locally
-
 In the project directory, you can run:
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run dev`
 Runs the sever in the development mode (must run from backend repo)
+
+See [this repo](https://github.com/zacharskim/focusLogger-back/tree/main) for the backend code. 
 
 ## Built With
 
