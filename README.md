@@ -46,5 +46,5 @@ See [this repo](https://github.com/zacharskim/focusLogger-back/tree/main) for th
 
 ## Citations
 
-[Clock Component](https://codepen.io/liborgabrhel/pen/JyJzjb)
+[Clock Component](https://codepen.io/liborgabrhel/pen/JyJzjb) \
 [Canvas Animation](https://codepen.io/mladen___/pen/gbvqBo)
