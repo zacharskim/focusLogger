@@ -43,3 +43,8 @@ See [this repo](https://github.com/zacharskim/focusLogger-back/tree/main) for th
 [Node-url]: https://nodejs.org/en/
 [MongoDB-url]: https://www.mongodb.com/
 [Firebase-url]: https://firebase.google.com/
+
+## Citations
+
+[Clock Component](https://codepen.io/liborgabrhel/pen/JyJzjb)
+[Canvas Animation](https://codepen.io/mladen___/pen/gbvqBo)
