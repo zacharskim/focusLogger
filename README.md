@@ -4,6 +4,15 @@
 
 This app allows the user to log into the app and then log and visualize their [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) sessions, along with certain data about each session. The app also includes a timer to facilitae pomodoro chunks. 
 
+## Example Demo
+
+
+
+
+https://user-images.githubusercontent.com/45699852/193712699-d5b53c55-e00d-4d8a-8c6a-9553c81bce17.mov
+
+
+
 ## Run locally
 
 In the project directory, you can run:
