@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `npm run dev`
 Runs the sever in the development mode (must run from backend repo)
 
-See [this repo](https://github.com/zacharskim/focusLogger-back/tree/main) for the backend code. 
+See [this repo](https://github.com/zacharskim/focussLogger-back) for the backend code. 
 
 ## Built With
 
